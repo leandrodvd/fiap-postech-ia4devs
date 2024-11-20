@@ -1,0 +1,5 @@
+Total de frames analisados: 3326
+Total de frames com face detectada: 1320
+Total de frames com face de frente: 1198
+Total de frames com face detectada mas não de frente: 350
+Emoções detectadas: ['fear' 'happy' 'sad' '' 'angry' 'neutral' 'surprise']
